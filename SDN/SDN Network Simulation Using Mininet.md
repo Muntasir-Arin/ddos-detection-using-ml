@@ -10,7 +10,7 @@ Links: Host h1 is linked to switch s1 via h1-eth0:s1-eth1, and host h2 is linked
 Addresses: Host h1 is assigned IP address 10.0.0.1, and host h2 is assigned IP address 10.0.0.2.
 
 Command Log
-Mininet Initialization: Upon initializing Mininet, the network was set up, with hosts and switches added. No default OpenFlow controller was found, so Mininet fell back to the default Open vSwitch bridge.
+Mininet Initialization: Upon initializing Mininet, the network was set up, with hosts and switches added. 
 
 Network Configuration: The network was configured with the following layout:
 h1 connected to s1 via s1-eth1
